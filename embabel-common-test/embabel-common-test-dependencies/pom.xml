@@ -4,12 +4,12 @@
     <parent>
         <groupId>com.embabel.build</groupId>
         <artifactId>embabel-dependencies-parent</artifactId>
-        <version>0.1.0</version>
+        <version>0.1.1-7Z</version>
         <relativePath />
     </parent>
     <groupId>com.embabel.common</groupId>
     <artifactId>embabel-common-test-dependencies</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1-7Z</version>
     <packaging>pom</packaging>
     <name>Embabel Common Test Dependencies</name>
     <description>Embabel Common Test Framework Dependencies</description>
